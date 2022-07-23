@@ -1,5 +1,5 @@
 ## Olá! Eu sou Samuel Guilherme 🖐
-💻 Linguagens : HTML, CSS, JAVA E PYTHON .
+💻 Linguagens : Java, Oracle/SQL 
 
  
  
