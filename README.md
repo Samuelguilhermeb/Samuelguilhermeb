@@ -1,29 +1,26 @@
-## Olá! Eu sou Samuel Guilherme 🖐
-💻 Linguagens : Java, Oracle/SQL 
 
- 
- 
- 
- <div align="center">
-  <a href="https://github.com/samuelguilhermeb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelguilhermeb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelguilhermeb&layout=compact&langs_count=7&theme=dracula"/>
-   
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
-  ##
-  
- <div> 
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-  <a href="https://www.instagram.com/gui_barros3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-guilherme-barros-0226801b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-</div
+- 🤔 &nbsp; Aprendendo novas tecnologias para me tornar um FullStack através do curso da T.Experts.
+- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
+- 💼 &nbsp; Estagiando como **Analista de Sistema**
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript,Node,React,TypeScript,Git e GitHub.. **.
 
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Samuel Guilherme Barros](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-guilherme-barros-0226801b8/)](https://www.linkedin.com/in/samuel-guilherme-barros-0226801b8/)
+[![GitHub Samuelguilhermeb]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Samuelguilhermeb)
