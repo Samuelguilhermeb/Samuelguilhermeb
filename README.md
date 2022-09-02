@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Aprendendo novas tecnologias para me tornar um FullStack através do curso da T.Experts.
 - 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
 - 💼 &nbsp; Estagiando como **Analista de Sistema**
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript,Node,React,TypeScript,Git e GitHub.. **.
+- 🌱 &nbsp; Aprendendo mais sobre JavaScript , Node, React, TypeScript, Git e GitHub.. .
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
