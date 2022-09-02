@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :men: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Aprendendo novas tecnologias para me tornar um FullStack através do curso da T.Experts.
 - 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
