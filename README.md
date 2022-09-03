@@ -6,7 +6,6 @@
 - 🤔 &nbsp;  Aprendendo, estudando e me aperfeiçoando para ser um FullStack através do curso da T.Experts.
 - 🎓 &nbsp; Graduando em  Análise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
 - 💼 &nbsp; Estagiário na **Evox Solutions**
-- 🌱 &nbsp; Aprendendo mais sobre JavaScript , Node, React, TypeScript, Git e GitHub.. .
 
 <h3> :rocket: &nbsp;Minha Skills </h3>
 
