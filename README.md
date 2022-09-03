@@ -1,14 +1,14 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3
+<h3> :man: &nbsp; Olá! Vem saber um pouco sobre mim :call_me_hand: </h3
 
-- 🤔 &nbsp; Aprendendo novas tecnologias para me tornar um FullStack através do curso da T.Experts.
-- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
-- 💼 &nbsp; Estagiando como **Analista de Sistema**
+- 🤔 &nbsp;  Aprendendo, estudando e me aperfeiçoando para ser um FullStack através do curso da T.Experts.
+- 🎓 &nbsp; Graduando em  Análise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
+- 💼 &nbsp; Estagiário na **Evox Solutions**
 - 🌱 &nbsp; Aprendendo mais sobre JavaScript , Node, React, TypeScript, Git e GitHub.. .
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Minha Skills </h3>
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
