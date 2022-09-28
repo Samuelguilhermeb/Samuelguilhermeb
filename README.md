@@ -7,16 +7,7 @@
 - 🎓 &nbsp; Graduando em  Análise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
 - 💼 &nbsp; Estagiário na **Evox Solutions**
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![HTML](https://img.shields.io/badge/-Html-333333?style=flat&logo=html&logoColor=007396)
-   ![CSS](https://img.shields.io/badge/-Css-333333?style=flat&logo=css&logoColor=007396)
-   ![JS](https://img.shields.io/badge/-Js-333333?style=flat&logo=js&logoColor=007396)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
